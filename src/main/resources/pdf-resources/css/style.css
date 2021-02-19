@@ -1,0 +1,89 @@
+@page {
+    size: A4;
+    margin: 0;
+}
+
+body {
+    font-family: Calibri, Candara, Segoe, Optima, Arial, sans-serif;
+    font-size: 12px;
+}
+
+.container{
+	
+	padding:3px;
+	
+}
+.container h3{
+	text-align:center;
+}
+
+.container hr{
+  border-top: 1px solid #ddd;
+}
+
+.titles-style {
+    color: #030000;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#detail{
+	text-align:center;
+	width:100%;
+	 margin: 0 auto;
+
+	
+}
+#detail table{
+	 border-collapse: collapse;
+}
+#detail table tr td{
+	
+  text-align: center;
+  vertical-align: middle;
+}
+
+#detail table tr td.firsttd{
+	
+	width:350px;
+	text-align:left;
+	
+	
+}
+
+#detail table tr td.thirdtd{
+	
+	width:300px;
+	text-align:left;
+	padding-left:20px;
+	
+	
+}
+.students_table {
+    padding-top: 0px;
+    width: 100%;
+    font-size: 10px;
+    color: black;
+    font-style: normal;
+    border-spacing: 0px;
+}
+
+#pilihandanainvestasi{
+	
+}
+
+.students_table tr  {
+    background-color: #ffffff;
+    border:1px solid #000000;
+}
+
+.students_table td {
+}
+
+.students_table tr td {
+	 border: 0;
+}
+
+.logo {
+	width:20%;
+}
